@@ -59,7 +59,3 @@
 
   # Outcome-
   - This project demonstrates end-to-end data analytics skills including data cleaning, SQL querying, dashboard creation, KPI monitoring, and translating data insights into actionable business recommendations.
-
-Target high-AOV cities with premium pricing
-
-Use discounts strategically, not universally

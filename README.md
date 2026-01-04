@@ -69,4 +69,3 @@ This project demonstrates end-to-end data analytics skills, including:
 - KPI design & dashboard storytelling
 - Translating data insights into actionable business recommendations
 ---
-  - This project demonstrates end-to-end data analytics skills including data cleaning, SQL querying, dashboard creation, KPI monitoring, and translating data insights into actionable business recommendations.

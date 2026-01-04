@@ -1,8 +1,16 @@
 # E-Commerce Customer Behavior & Revenue Analysis
 
-# Business Problem-
-- The company wants to understand customer behavior, revenue drivers, retention patterns, discount effectiveness, and geographic performance to improve growth and profitability.
+# Project Overview-
+- This project analyses e-commerce transaction data to uncover insights into customer behavior, revenue drivers, retention patterns, discount effectiveness, and geographic performance. The goal is to support data-driven business decisions that improve growth, profitability, and customer retention.
+---
 
+# Business Problem-
+The company wants to:
+- Understand who their customers are
+- Identify key revenue drivers
+- Measure customer retention & loyalty
+- Evaluate discount effectiveness
+- Analyse geographic performance
 ---
 
 # Tools Used-
@@ -28,16 +36,15 @@
 - Retention & repeat customer analysis
 - Discount impact on revenue & satisfaction
 - Geographic performance analysis
-
 ---
 
-# Dashboard Pages-
-- **Executive KPI Overview**
-- **Customer Behavior & Segmentation**
-- **Sales & Revenue Trends**
-- **Discounts & Customer Satisfaction**
-- **Geo Performance Analysis**
-
+# Power BI Dashboard Pages-
+- Executive KPI Overview
+- Customer Behavior & Segmentation
+- Sales & Revenue Trends
+- Discounts & Customer Satisfaction
+- Geo Performance Analysis
+Dashboard screenshots are available in the powerbi/ folder.
 ---
 
 # Key Business Insights-
@@ -46,7 +53,6 @@
 - Discounts do not significantly increase ratings
 - Some smaller cities show high AOV → expansion opportunity
 - Clear seasonality with year-end revenue spikes
-
 ---
 
 # Recommendations-
@@ -54,8 +60,13 @@
 - Reduce dependency on one category
 - Target high-AOV cities with premium pricing
 - Use discounts strategically, not universally
-
 ---
 
-  # Outcome-
+# Outcome-
+This project demonstrates end-to-end data analytics skills, including:
+- Data cleaning & transformation
+- SQL-based business analysis
+- KPI design & dashboard storytelling
+- Translating data insights into actionable business recommendations
+---
   - This project demonstrates end-to-end data analytics skills including data cleaning, SQL querying, dashboard creation, KPI monitoring, and translating data insights into actionable business recommendations.
